@@ -6,6 +6,8 @@
 
 Clone o projeto:
 
+`https://github.com/IzaacBaptista/php-phpunit.git`
+
 #### Test Calculator
 
 Para executar os testes da `Test Calculator` basta acessar o diretório:
